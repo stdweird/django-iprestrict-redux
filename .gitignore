@@ -12,3 +12,4 @@ MANIFEST
 /dist/
 /.tox/
 /.coverage
+*~
